@@ -1,4 +1,4 @@
 import numpy;
 
 print("Hello World")
-print()
+print("Some Thing new~~")
